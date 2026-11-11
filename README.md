@@ -27,7 +27,7 @@ Cada unidad termina con un reto: un contrato escrito, sin código guiado, que ve
    npm test   # al inicio: la demo en verde; el taller y el reto en rojo
    ```
 
-El `README.md` de cada plantilla trae el contrato del reto, qué archivos puedes modificar y la lista para revisar antes de entregar.
+El `README.md` de cada plantilla explica cómo instalar y correr el proyecto. El contrato del reto, qué archivos puedes modificar y la lista para revisar tu trabajo están en la guía del reto de cada unidad, en el material del curso.
 
 ## Requisitos
 
