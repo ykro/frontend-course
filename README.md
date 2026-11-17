@@ -14,7 +14,7 @@ Este repositorio es el índice del curso. El código de cada unidad está en su 
 | 2 | [`frontend-course-u2-pulseboard`](https://github.com/ykro/frontend-course-u2-pulseboard) | **PulseBoard**, el tablero de tareas de un equipo: TanStack Query, cliente tipado desde OpenAPI, Firebase Auth, Firestore en vivo y MSW. |
 | 3 | [`frontend-course-u3-eventpass`](https://github.com/ykro/frontend-course-u3-eventpass) | **EventPass**, un catálogo de charlas con inscripción: Next.js 16, Server Components, Server Actions, `useActionState`, `useOptimistic` y despliegue en Vercel. |
 
-Cada unidad termina con un reto: un contrato escrito, sin código guiado, que verificas con los tests públicos de tu repositorio.
+Cada unidad termina con un reto: un contrato escrito, sin código guiado, que verificas con los tests de la plantilla en tu repositorio.
 
 ## Cómo empezar
 
