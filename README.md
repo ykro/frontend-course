@@ -36,3 +36,15 @@ El `README.md` de cada plantilla explica cómo instalar y correr el proyecto. El
 - Un editor con un agente de código y las extensiones de ESLint y Prettier, y Chrome o Edge.
 - Unidad 3: una cuenta de Vercel (plan Hobby). Firebase es opcional en la Unidad 2.
 - Haber programado antes en JavaScript o TypeScript y usar la terminal a nivel básico.
+
+## Nivelación rápida antes de empezar (On-Ramp ~60 min)
+
+Si sientes que el curso arranca rápido o nunca has trabajado con HTML semántico, React, peticiones asíncronas o Next.js, dedica una hora a este repositorio antes de abrir la Unidad 1:
+
+- **Práctica paso a paso:** [`ykro/frontend-onramp`](https://github.com/ykro/frontend-onramp) (accesibilidad con Testing Library, Flexbox/Grid, estado inmutable en React, `fetch`/`AbortController` y frontera `"use client"`).
+- **Solución explicada archivo por archivo:** [`ykro/frontend-onramp-solution`](https://github.com/ykro/frontend-onramp-solution).
+- **Índice de los tres on-ramp (Backend, Frontend y Android):** [`ykro/courses-onramp`](https://github.com/ykro/courses-onramp).
+
+## Paquete de 15 skills profesionales
+
+Este repositorio incluye [`skills/`](skills/README.md), un paquete de **15 skills de producción para React y Next.js** pensado para tu trabajo profesional fuera del curso (TypeScript estricto, accesibilidad, estado derivado, formularios con Zod, TanStack Query, pruebas con Testing Library, Server/Client Components, Server Actions seguras, caché y revalidación, secretos, Web Vitals, seguridad web y despliegue en Vercel). Instálalas en tu carpeta personal de skills (`~/.claude/skills/`, `~/.gemini/antigravity/skills/` o `~/.agents/skills/`), nunca dentro del repo de una unidad.

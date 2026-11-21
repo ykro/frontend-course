@@ -11,3 +11,7 @@ Index of a three-unit online course (taught in Spanish). In each unit you build 
 **Getting started:** open a unit template, choose **Use this template > Create a new repository**, give it your own name, make it **Private**, clone it and run `npm ci` and `npm test` in its root. The challenge contract for each unit is in its challenge guide, in the course materials.
 
 **Requirements:** Node.js 24, Git and a GitHub account, an editor with a coding agent; for Unit 3, a Vercel account (Hobby plan).
+
+**Pre-course On-Ramp (~60 min):** If you want a quick hands-on warm-up before Unit 1 (semantic HTML/accessibility, React immutability, `fetch`/`AbortController`, and `"use client"` boundaries), start with [`ykro/frontend-onramp`](https://github.com/ykro/frontend-onramp) (step-by-step solution: [`ykro/frontend-onramp-solution`](https://github.com/ykro/frontend-onramp-solution); full index: [`ykro/courses-onramp`](https://github.com/ykro/courses-onramp)).
+
+**Professional Skills Pack (15 skills):** See [`skills/`](skills/README.md) for 15 production React and Next.js skills for professional work beyond the course (strict TypeScript, accessibility, derived state, Zod forms, TanStack Query, Testing Library, Server/Client Components, secure Server Actions, caching, secrets, Web Vitals, web security, and Vercel deployment).
