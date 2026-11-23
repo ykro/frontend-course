@@ -37,11 +37,11 @@ El `README.md` de cada plantilla explica cómo instalar y correr el proyecto. El
 - Unidad 3: una cuenta de Vercel (plan Hobby). Firebase es opcional en la Unidad 2.
 - Haber programado antes en JavaScript o TypeScript y usar la terminal a nivel básico.
 
-## Nivelación rápida antes de empezar (On-Ramp ~60 min)
+## Nivelación antes de empezar (On-Ramp · 2–3 h ruta corta U1 / 3 h 45 min completo)
 
-Si sientes que el curso arranca rápido o nunca has trabajado con HTML semántico, React, peticiones asíncronas o Next.js, dedica una hora a este repositorio antes de abrir la Unidad 1:
+Si sientes que el curso arranca rápido o nunca has trabajado con HTML semántico, React, Zod, pruebas con Vitest o Next.js, completa antes este repositorio: la ruta corta para llegar listo a la Unidad 1 (`npm run check:u1`) toma **2–3 h**, y el recorrido completo, **3 h 45 min**.
 
-- **Práctica paso a paso:** [`ykro/frontend-onramp`](https://github.com/ykro/frontend-onramp) (accesibilidad con Testing Library, Flexbox/Grid, estado inmutable en React, `fetch`/`AbortController` y frontera `"use client"`).
+- **Práctica paso a paso:** [`ykro/frontend-onramp`](https://github.com/ykro/frontend-onramp) (accesibilidad con Testing Library, Flexbox/Grid, estado inmutable en React, Paso 3 con validación en Zod en `filtroPrecio.ts`, `fetch`/`AbortController`, Paso 5 de tests cazabugs con Vitest y frontera `"use client"`).
 - **Solución explicada archivo por archivo:** [`ykro/frontend-onramp-solution`](https://github.com/ykro/frontend-onramp-solution).
 - **Índice de los tres on-ramp (Backend, Frontend y Android):** [`ykro/courses-onramp`](https://github.com/ykro/courses-onramp).
 
